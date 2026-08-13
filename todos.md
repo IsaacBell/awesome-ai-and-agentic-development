@@ -1,0 +1,7 @@
+- letsencrypt.org
+- https://gurusup.com/blog/agent-orchestration-patterns
+- https://gurusup.com/blog/best-multi-agent-frameworks-2026
+- Serena
+- Mem0
+- LangChain/Graph/Fuse/Smith/Trace
+- Temporal
