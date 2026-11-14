@@ -116,6 +116,7 @@
 - [Cline](https://github.com/cline/cline) - Open-source AI coding assistant that edits code autonomously in your editor.
 - [Aider](https://github.com/Aider-AI/aider) - AI pair programming in the terminal with git integration.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous AI software development agents.
+- [Althar](https://github.com/AltharIDE/althar) - Desktop ADE that turns requests into tasks, assigns coding agents, and sends their changes to another model for review.
 
 ## Image & Video Generation
 
